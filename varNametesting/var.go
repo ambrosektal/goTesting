@@ -1,7 +1,7 @@
-package varNameTest
+package varname
 
 func varNametesting() {
 
-	variable1, variable2 := v1, 22
+	variable1, variable2 := 22, 33
 	println(variable1, variable2)
 }
